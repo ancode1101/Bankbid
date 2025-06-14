@@ -1,0 +1,36 @@
+{
+  "properties": [
+    {
+      "propertyType": "2BHK Flat",
+      "location": "Thane West",
+      "reservePrice": "₹52L",
+      "marketPrice": "₹75L",
+      "auctionDate": "2025-06-25",
+      "emdAmount": "₹5.2L"
+    },
+    {
+      "propertyType": "3BHK Apartment",
+      "location": "Mulund East",
+      "reservePrice": "₹84L",
+      "marketPrice": "₹1.1Cr",
+      "auctionDate": "2025-06-30",
+      "emdAmount": "₹8.4L"
+    },
+    {
+      "propertyType": "1BHK Studio",
+      "location": "Bhandup West",
+      "reservePrice": "₹32L",
+      "marketPrice": "₹45L",
+      "auctionDate": "2025-06-27",
+      "emdAmount": "₹3.2L"
+    },
+    {
+      "propertyType": "4BHK Villa",
+      "location": "Ghatkopar East",
+      "reservePrice": "₹1.25Cr",
+      "marketPrice": "₹1.6Cr",
+      "auctionDate": "2025-06-29",
+      "emdAmount": "₹12.5L"
+    }
+  ]
+}
